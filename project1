@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title> paytm qr code </title>
+            <link href="qr.css" rel="stylesheet">
+            </head>
+            <body>
+                <div class="container">
+                    <div class="card">
+                        <div class="code">
+                            <img src="file:///C:/Users/abhid/Downloads/qr%20code.jpeg">
+<centre><h1> paytm scanner <br>
+to pay the amount  </h1></centre>
+                        </div>
+                    </div>
+                </div>
+            </body>
+            </html>
