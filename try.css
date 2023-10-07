@@ -1,0 +1,47 @@
+* {
+    margin:0;
+    padding:0;
+
+}
+.flex-container {
+    height: 855px;
+    width: 758px;
+    background-color: aqua;
+    margin: 66px 65px 98px 95px;
+}
+.flex-box1 {
+    height: 200px;
+    width: 200px;
+    color: rgb(0, 255, 106);
+    display: flex;
+    margin: 23px;
+    background-color: red;
+    color:black;
+    display: flex;
+    margin: 23px;
+    text-align: center;
+}
+.flex-box2 {
+    height: 200px;
+    width: 200px;
+    color: rgb(0, 255, 106);
+    display: flex;
+    margin: 143px 33px 45px 324px;
+    background-color: red;
+    color:black;
+    display: flex;
+
+    text-align: center;
+}
+.flex-box3 {
+    height: 200px;
+    width: 200px;
+    color: rgb(0, 255, 106);
+    display: flex;
+    margin: 23px;
+    background-color: red;
+    color:black;
+    display: flex;
+    margin: 23px;
+    text-align: center;
+}
